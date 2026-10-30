@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Aland Islands",
+    "code": "AX",
+    "aliases": []
+  },
+  {
+    "name": "Albania",
+    "code": "AL",
+    "aliases": []
+  },
+  {
+    "name": "Algeria",
+    "code": "DZ",
+    "aliases": []
+  },
+  {
+    "name": "Andorra",
+    "code": "AD",
+    "aliases": []
+  },
+  {
+    "name": "Armenia",
+    "code": "AM",
+    "aliases": []
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "aliases": []
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "aliases": []
+  },
+  {
+    "name": "Belarus",
+    "code": "BY",
+    "aliases": []
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "aliases": []
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "BA",
+    "aliases": []
+  },
+  {
+    "name": "Bulgaria",
+    "code": "BG",
+    "aliases": []
+  },
+  {
+    "name": "Croatia",
+    "code": "HR",
+    "aliases": []
+  },
+  {
+    "name": "Cyprus",
+    "code": "CY",
+    "aliases": []
+  },
+  {
+    "name": "Czech Republic",
+    "code": "CZ",
+    "aliases": [
+      "Czech Republic"
+    ]
+  },
+  {
+    "name": "Denmark",
+    "code": "DK",
+    "aliases": []
+  },
+  {
+    "name": "Egypt",
+    "code": "EG",
+    "aliases": []
+  },
+  {
+    "name": "Estonia",
+    "code": "EE",
+    "aliases": []
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "FO",
+    "aliases": []
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "aliases": []
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "aliases": []
+  },
+  {
+    "name": "Georgia",
+    "code": "GE",
+    "aliases": []
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "aliases": []
+  },
+  {
+    "name": "Gibraltar",
+    "code": "GI",
+    "aliases": []
+  },
+  {
+    "name": "Greece",
+    "code": "GR",
+    "aliases": [
+      "EL"
+    ]
+  },
+  {
+    "name": "Guernsey",
+    "code": "GG",
+    "aliases": []
+  },
+  {
+    "name": "Holy See",
+    "code": "VA",
+    "aliases": [
+      "Vatican",
+      "Holy See"
+    ]
+  },
+  {
+    "name": "Hungary",
+    "code": "HU",
+    "aliases": []
+  },
+  {
+    "name": "Iceland",
+    "code": "IS",
+    "aliases": []
+  },
+  {
+    "name": "Iran",
+    "code": "IR",
+    "aliases": []
+  },
+  {
+    "name": "Iraq",
+    "code": "IQ",
+    "aliases": []
+  },
+  {
+    "name": "Ireland",
+    "code": "IE",
+    "aliases": []
+  },
+  {
+    "name": "Isle of Man",
+    "code": "IM",
+    "aliases": []
+  },
+  {
+    "name": "Israel",
+    "code": "IL",
+    "aliases": []
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "aliases": []
+  },
+  {
+    "name": "Jersey",
+    "code": "JE",
+    "aliases": []
+  },
+  {
+    "name": "Jordan",
+    "code": "JO",
+    "aliases": []
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "aliases": []
+  },
+  {
+    "name": "Kosovo",
+    "code": "XK",
+    "aliases": []
+  },
+  {
+    "name": "Latvia",
+    "code": "LV",
+    "aliases": []
+  },
+  {
+    "name": "Lebanon",
+    "code": "LB",
+    "aliases": []
+  },
+  {
+    "name": "Libya",
+    "code": "LY",
+    "aliases": []
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "LI",
+    "aliases": []
+  },
+  {
+    "name": "Lithuania",
+    "code": "LT",
+    "aliases": []
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU",
+    "aliases": []
+  },
+  {
+    "name": "Malta",
+    "code": "MT",
+    "aliases": []
+  },
+  {
+    "name": "Moldova",
+    "code": "MD",
+    "aliases": []
+  },
+  {
+    "name": "Monaco",
+    "code": "MC",
+    "aliases": []
+  },
+  {
+    "name": "Montenegro",
+    "code": "ME",
+    "aliases": []
+  },
+  {
+    "name": "Morocco",
+    "code": "MA",
+    "aliases": []
+  },
+  {
+    "name": "Netherlands",
+    "code": "NL",
+    "aliases": []
+  },
+  {
+    "name": "North Macedonia",
+    "code": "MK",
+    "aliases": []
+  },
+  {
+    "name": "Norway",
+    "code": "NO",
+    "aliases": []
+  },
+  {
+    "name": "Poland",
+    "code": "PL",
+    "aliases": []
+  },
+  {
+    "name": "Portugal",
+    "code": "PT",
+    "aliases": []
+  },
+  {
+    "name": "Romania",
+    "code": "RO",
+    "aliases": []
+  },
+  {
+    "name": "Russia",
+    "code": "RU",
+    "aliases": []
+  },
+  {
+    "name": "San Marino",
+    "code": "SM",
+    "aliases": []
+  },
+  {
+    "name": "Serbia",
+    "code": "RS",
+    "aliases": []
+  },
+  {
+    "name": "Slovakia",
+    "code": "SK",
+    "aliases": []
+  },
+  {
+    "name": "Slovenia",
+    "code": "SI",
+    "aliases": []
+  },
+  {
+    "name": "Spain",
+    "code": "ES",
+    "aliases": []
+  },
+  {
+    "name": "State of Palestine",
+    "code": "PS",
+    "aliases": []
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "code": "SJ",
+    "aliases": []
+  },
+  {
+    "name": "Sweden",
+    "code": "SE",
+    "aliases": []
+  },
+  {
+    "name": "Switzerland",
+    "code": "CH",
+    "aliases": []
+  },
+  {
+    "name": "Syria",
+    "code": "SY",
+    "aliases": []
+  },
+  {
+    "name": "Tunisia",
+    "code": "TN",
+    "aliases": []
+  },
+  {
+    "name": "Türkiye",
+    "code": "TR",
+    "aliases": [
+      "Turkey",
+      "Türkiye"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "code": "UA",
+    "aliases": []
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "aliases": [
+      "UK",
+      "Great Britain",
+      "Britain"
+    ]
+  }
+]

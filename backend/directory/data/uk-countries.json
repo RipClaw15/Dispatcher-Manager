@@ -1,0 +1,34 @@
+[
+  {
+    "name": "England",
+    "code": "GB-ENG",
+    "aliases": [
+      "ENG",
+      "UK-ENG"
+    ]
+  },
+  {
+    "name": "Northern Ireland",
+    "code": "GB-NIR",
+    "aliases": [
+      "NIR",
+      "UK-NIR"
+    ]
+  },
+  {
+    "name": "Scotland",
+    "code": "GB-SCT",
+    "aliases": [
+      "SCT",
+      "UK-SCT"
+    ]
+  },
+  {
+    "name": "Wales",
+    "code": "GB-WLS",
+    "aliases": [
+      "WLS",
+      "UK-WLS"
+    ]
+  }
+]
